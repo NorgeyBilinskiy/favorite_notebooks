@@ -17,6 +17,11 @@
 ![Credit_Scoring](Images/Credit_Scoring.png)
 
 
+## Digital_Signal_Processing
+Ноутбук с демонстрацией явления алиасинга при недостаточной частоте дискретизации сигнала.
+![Aliasing](Images/Aliasing.png)
+
+
 ##  Energy_consumption_forecast
 Ноутбуки по прогнозированию энергопотребления в Калининградской области
 
